@@ -1,0 +1,13 @@
+{
+    "memo": "867f9844615ad63524e59b371d1141a1fe88d3409fb24ebebae2a9048ed14f4a",
+    "projects": [
+        {
+            "name": "github.com/nathan-osman/go-rpigpio",
+            "branch": "master",
+            "revision": "bce6190607da242de6cd7c566aceb73e32b0a25a",
+            "packages": [
+                "."
+            ]
+        }
+    ]
+}
