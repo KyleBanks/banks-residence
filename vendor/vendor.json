@@ -1,0 +1,43 @@
+{
+	"comment": "",
+	"ignore": "",
+	"package": [
+		{
+			"checksumSHA1": "asmDhX/+sXdmgxWwi0wJNzaDhwo=",
+			"path": "github.com/hashicorp/errwrap",
+			"revision": "7554cd9344cec97297fa6649b055a8c98c2a1e55",
+			"revisionTime": "2014-10-28T05:47:10Z"
+		},
+		{
+			"checksumSHA1": "Y1hi18iBFye5aIehhQGiiXD//FE=",
+			"path": "github.com/hashicorp/go-multierror",
+			"revision": "ed905158d87462226a13fe39ddf685ea65f1c11f",
+			"revisionTime": "2016-12-16T18:43:04Z"
+		},
+		{
+			"checksumSHA1": "DyXjUNrlIScmfB0IpftnZ5v1YHA=",
+			"path": "github.com/lazywei/go-opencv/opencv",
+			"revision": "76a80c792afab341300db33893a39c06b366787b",
+			"revisionTime": "2016-12-27T04:30:36Z"
+		},
+		{
+			"checksumSHA1": "KflD/nG7gax6mlOWcxmnoTB3F9k=",
+			"path": "gobot.io/x/gobot",
+			"revision": "3c7285942ca0c510e83a14481f006229ed793452",
+			"revisionTime": "2017-02-16T12:34:04Z"
+		},
+		{
+			"checksumSHA1": "xsCKGB+G2CxnRXo0sobMIFPH8oQ=",
+			"path": "gobot.io/x/gobot/gobottest",
+			"revision": "3c7285942ca0c510e83a14481f006229ed793452",
+			"revisionTime": "2017-02-16T12:34:04Z"
+		},
+		{
+			"checksumSHA1": "RjKnmMiTqAtpAh8BC6lsXLafqsc=",
+			"path": "gobot.io/x/gobot/platforms/opencv",
+			"revision": "3c7285942ca0c510e83a14481f006229ed793452",
+			"revisionTime": "2017-02-16T12:34:04Z"
+		}
+	],
+	"rootPath": "github.com/KyleBanks/banks-residence"
+}

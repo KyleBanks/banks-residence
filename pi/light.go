@@ -4,6 +4,10 @@ import (
 	"github.com/nathan-osman/go-rpigpio"
 )
 
+const (
+	gpioPinNumber = 4
+)
+
 type State rpi.Value
 
 var (
