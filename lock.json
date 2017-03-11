@@ -1,6 +1,32 @@
 {
-    "memo": "867f9844615ad63524e59b371d1141a1fe88d3409fb24ebebae2a9048ed14f4a",
+    "memo": "bf7e256a1baad77069b0b99d5a2b93837d76eb4b50d339c5ac904f3402045ea6",
     "projects": [
+        {
+            "name": "github.com/aws/aws-sdk-go",
+            "version": "v1.7.8",
+            "revision": "819b71cf8430e434c1eee7e7e8b0f2b8870be899",
+            "packages": [
+                "aws",
+                "aws/session",
+                "service/s3"
+            ]
+        },
+        {
+            "name": "github.com/go-ini/ini",
+            "version": "v1.25.2",
+            "revision": "74bdc99692c3408cb103221e38675ce8fda0a718",
+            "packages": [
+                "."
+            ]
+        },
+        {
+            "name": "github.com/jmespath/go-jmespath",
+            "version": "0.2.2",
+            "revision": "3433f3ea46d9f8019119e7dd41274e112a2359a9",
+            "packages": [
+                "."
+            ]
+        },
         {
             "name": "github.com/nathan-osman/go-rpigpio",
             "branch": "master",
